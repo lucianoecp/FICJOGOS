@@ -1,0 +1,13 @@
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.exe
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.deps.json
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.runtimeconfig.json
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.runtimeconfig.dev.json
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.dll
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\bin\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.pdb
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.dll
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.pdb
+C:\Users\Luciano\source\repos\ProgBasicaEx04.quest1\obj\Debug\netcoreapp3.1\ProgBasicaEx04.quest1.genruntimeconfig.cache
